@@ -1,4 +1,5 @@
 # Example projet template
+#https://realpython.com/django-nginx-gunicorn/
 
 This example project only supports the latest version of Django.
 
