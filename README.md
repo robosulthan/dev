@@ -14,6 +14,7 @@ virtualenv env
 source env/bin/activate
 git clone https://github.com/robosulthan/dev.git
 cd dev/
+sh upd.sh
 pip install -r requirements.txt
 echo "export SECRET_KEY='$(openssl rand -hex 40)'" > .DJANGO_SECRET_KEY
 source .DJANGO_SECRET_KEY
