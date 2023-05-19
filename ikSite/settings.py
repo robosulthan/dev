@@ -27,7 +27,7 @@ except KeyError as e:
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [".iksaan.com","3.6.131.176"]
+ALLOWED_HOSTS = [".iksaan.com","ipxxxx"]
 
 
 # Application definition
