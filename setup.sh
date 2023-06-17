@@ -7,4 +7,7 @@ cd ~/project
 virtualenv env
 source env/bin/activate
 git clone https://github.com/robosulthan/iks.git
+cd dev
+virtualenv env
+source env/bin/activate
 
